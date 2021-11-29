@@ -1,12 +1,15 @@
 ## Welcome to GitHub Pages
 
-This page is used to direct visitors to the following presentation posters:
+This page is used to direct visitors to the following posters/slides/reports for some presentations:
 
-1. "Evolution of Communication"
-[poster](./Evolution_of_Communication.pdf)
+1. "Evolution of Communication"<br>
+[[poster]](./Evolution_of_Communication.pdf)
 
-2. "ICMI 2021"
-[poster](./Poster_Presentation_ICMI.pdf)
+2. "ICMI 2021"<br>
+[[poster]](./Poster_Presentation_ICMI.pdf)
+
+3. "Traffic flow prediction by using LSR and SVR"<br>
+[[slides]](./SVM_slides.pdf) [[report]](./SVM_report.pdf)
 
 <!-- ### Markdown
 
