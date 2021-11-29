@@ -3,10 +3,10 @@
 This page is used to direct visitors to the following presentation posters:
 
 1. "Evolution of Communication"
-[poster](https://github.com/qinglin0624/presentations/edit/gh-pages/Evolution of Communication.pdf)
+[poster](https://github.com/qinglin0624/presentations/edit/gh-pages/Evolution_of_Communication.pdf)
 
 2. "ICMI 2021"
-[poster](https://github.com/qinglin0624/presentations/edit/gh-pages/Poster Presentation_ICMI.pdf)
+[poster](https://github.com/qinglin0624/presentations/edit/gh-pages/Poster_Presentation_ICMI.pdf)
 
 <!-- ### Markdown
 
