@@ -14,7 +14,7 @@ This page is used to direct visitors to the following posters/slides/reports for
 4. "Proposal"<br>
 [[PDF]](./project_proposal.pdf)
 
-5. "Proposal"<br>
+5. "Collection"<br>
 [[PDF]](./collection.pdf)
 
 <!-- ### Markdown
