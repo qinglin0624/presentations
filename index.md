@@ -11,8 +11,11 @@ This page is used to direct visitors to the following posters/slides/reports for
 3. "Traffic flow prediction by using LSR and SVR"<br>
 [[slides]](./SVM_slides.pdf) [[report]](./SVM_report.pdf)
 
-3. "Proposal"<br>
+4. "Proposal"<br>
 [[PDF]](./project_proposal.pdf)
+
+5. "Proposal"<br>
+[[PDF]](./collection.pdf)
 
 <!-- ### Markdown
 
