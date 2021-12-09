@@ -11,6 +11,9 @@ This page is used to direct visitors to the following posters/slides/reports for
 3. "Traffic flow prediction by using LSR and SVR"<br>
 [[slides]](./SVM_slides.pdf) [[report]](./SVM_report.pdf)
 
+3. "Proposal"<br>
+[[PDF]](./project_proposal.pdf)
+
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
